@@ -1,0 +1,17 @@
+/vendor
+/node_modules
+/public/storage
+/storage/*.key
+/.idea
+/.vscode
+/.env
+/.env.*.local
+/.phpunit.result.cache
+/.php_cs.cache
+/.DS_Store
+npm-debug.log
+yarn-error.log
+/storage/framework/*
+/storage/logs/*
+/bootstrap/cache/*
+!/public/.htaccess
